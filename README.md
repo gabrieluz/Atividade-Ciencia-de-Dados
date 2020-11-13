@@ -1,4 +1,4 @@
-# Atividade-Ciencia-de-Dados dsasdfsafew
+# Atividade-Ciencia-de-Dados
 
 Nesta atividadade que, conforme orientação da coordenação, vale 60% da média do aluno, o objetivo é **desenvolver e treinar um algoritmo de regressão linear** para prever o preço de um diamante.
 
@@ -19,3 +19,6 @@ Ele possui as seguintes variáveis:
 * `x` comprimento em milímetros
 * `y` largura em milímetros
 * `z` profundidade em milímetros
+
+## Colaboradores
+* [@Tamires7](https://github.com/Tamires7)
