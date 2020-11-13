@@ -1,4 +1,4 @@
-# Atividade-Ciencia-de-Dados
+# Atividade-Ciencia-de-Dados dsasdfsafew
 
 Nesta atividadade que, conforme orientação da coordenação, vale 60% da média do aluno, o objetivo é **desenvolver e treinar um algoritmo de regressão linear** para prever o preço de um diamante.
 
@@ -6,7 +6,7 @@ Lembrando que preço é uma variável quantitativa, portanto estamos em um probl
 
 ## Sobre o Dataset Diamonds
 
-O dataset diamonds foi baixado pelo Kaggle e pode ser encontrado neste [link](https://www.kaggle.com/shivam2503/diamonds). Está em formato de valores separados por vírgula (`.CSV`).
+O dataset diamonds foi baixado pelo Kaggle e pode ser encontrado neste [link](https://www.kaggle.com/shivam2503/diamonds). Está em formato de valores separados por vírgula (`.CSV`). 
 
 Ele possui as seguintes variáveis:
 * `carat` peso do diamante em quilates
