@@ -19,3 +19,7 @@ Ele possui as seguintes variáveis:
 * `x` comprimento em milímetros
 * `y` largura em milímetros
 * `z` profundidade em milímetros
+
+
+## Colaboradores
+* [@Tamires7](https://github.com/Tamires7)
