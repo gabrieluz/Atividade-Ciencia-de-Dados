@@ -25,4 +25,3 @@ Ele possui as seguintes variáveis:
 * [@evellyn-nayra](https://github.com/evellyn-nayra)
 *[@ ludmilasant](https://github.com/ludmilasant)
 
-
